@@ -1,0 +1,47 @@
+
+/bargraph
+/bargraph\bargraph.png
+/bargraph\bargraph.R
+
+/heatmap
+/heatmap\heatmap.png
+/heatmap\heatmap.R
+/heatmap\heatmap.sql
+
+/histogram
+/histogram\histogram.R
+/histogram\histogram.sql
+/histogram\histogram_men.png
+/histogram\histogram_women.png
+
+/kmeans
+/kmeans\kmeansNoncampus.png
+/kmeans\kmeansOncampus.png
+/kmeans\kmeansPlotGraph_NonCampus.R
+/kmeans\kmeansPlotGraph_OnCampus.R
+/kmeans\kmeansTotalArrests.png
+
+/piechart
+/piechart\piechart.png
+/piechart\piechart.R
+/piechart\piechart.sql
+
+/Project Proposal.gdoc
+/ProjectProposal.pdf
+/Report Data Science Project.gdoc
+
+/scatterplot
+/scatterplot\scatterplot.R
+/scatterplot\ScatterplotNonCampus.png
+/scatterplot\ScatterPlotOnCampus.png
+
+
+/sql queries
+/sql queries\creation and data cleaning
+/sql queries\creation and data cleaning\ddlNonCampusArrest.sql
+/sql queries\creation and data cleaning\preprocessing.sql
+
+
+/sql queries\views for visualization
+/sql queries\views for visualization\vwNonCampusTotalArrestRate.sql
+/sql queries\views for visualization\vwOnCampusTotalArrestRate.sql
